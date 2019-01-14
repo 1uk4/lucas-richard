@@ -1,0 +1,19 @@
+.header_haut {
+	height: 500px;
+ 	width: 78.5%;
+	background-image: url(../img/depart_skicross.png);
+	background-repeat: no-repeat;
+	margin: auto;
+	font-size: 40px;
+	margin-bottom: none;
+	background-color: red;
+}
+
+.nav_li {
+	display: flex;
+ 	flex-direction: row;
+ 	margin: auto;
+ 	width: 700px;
+ 	background-color: #fff;
+ 	justify-content: space-around;
+}
